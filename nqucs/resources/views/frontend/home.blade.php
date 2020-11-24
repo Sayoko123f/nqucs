@@ -22,6 +22,7 @@
 
 <body>
     <div id="app">
+        <h1>Test 1124</h1>
         <global-navbar imgs="{{json_encode(array(
             asset('img/navbar-1.jpg'),
             asset('img/navbar-2.png'),
