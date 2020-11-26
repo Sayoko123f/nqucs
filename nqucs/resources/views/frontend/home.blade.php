@@ -22,7 +22,6 @@
 
 <body>
     <div id="app">
-        <h1>Test 1124</h1>
         <global-navbar imgs="{{json_encode(array(
             asset('img/navbar-1.jpg'),
             asset('img/navbar-2.png'),
@@ -44,6 +43,7 @@
             <hr />
             <hr />
             <hr />
+            <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FTaipei&amp;src=czExMDYxMjMwNEBzdHVkZW50Lm5xdS5lZHUudHc&amp;src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=emgudGFpd2FuI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%2333B679&amp;color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
             <hr />
             <hr />
             <hr />
